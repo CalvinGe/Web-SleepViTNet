@@ -16,4 +16,4 @@ Update: 2022-03-29 00:33
 * Run the program:
   - Enter `python .\app.py`. Normal return is
   `* Running on http://0.0.0.0:9191/ (Press CTRL+C to quit)`
-  - The open the link `http://127.0.0.1:9191/`
+  - Then open the link `http://127.0.0.1:9191/`
